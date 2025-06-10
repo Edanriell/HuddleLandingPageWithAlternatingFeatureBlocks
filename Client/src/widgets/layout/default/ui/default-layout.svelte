@@ -1,4 +1,4 @@
-<div class="app">
+<div class="w-full h-[100vh]">
 	<slot name="header" />
 
 	<main class="main">
