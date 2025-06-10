@@ -1,3 +1,4 @@
 <header>
-	<h2>Header</h2>
+	<p>Huddle</p>
+	<a href="#">Try It Free</a>
 </header>
