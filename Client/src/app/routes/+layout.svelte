@@ -1,5 +1,6 @@
 <script lang="ts">
 	import "@app/styles/styles.less"
+	import "@app/styles/tailwindcss.css"
 
 	import {DefaultLayout} from "@widgets/layout/default/ui";
 	import {Header} from "@widgets/header/ui";
