@@ -1,3 +1,9 @@
-<script lang="ts">
-	import "@app/styles/styles.less"
-</script>
+<div class="app">
+	<slot name="header" />
+
+	<main class="main">
+		<slot />
+	</main>
+
+	<slot name="footer" />
+</div>
