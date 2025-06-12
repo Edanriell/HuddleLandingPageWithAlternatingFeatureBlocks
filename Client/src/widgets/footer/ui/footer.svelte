@@ -1,3 +1,7 @@
+<script lang="ts">
+	import {Logotype} from "@shared/ui/logotype/ui";
+</script>
+
 <footer>
-	<h2>Footer</h2>
+	<Logotype colorScheme="Light"/>
 </footer>

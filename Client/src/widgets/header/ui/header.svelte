@@ -1,4 +1,7 @@
+<script>
+	import {Logotype} from "@shared/ui/logotype/ui";
+</script>
+
 <header>
-	<p>Huddle</p>
-	<a href="#">Try It Free</a>
+	<Logotype colorScheme="Dark" />
 </header>
