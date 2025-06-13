@@ -1,0 +1,1 @@
+<small class="font-[var(--font-family)] block text-center font-normal text-[11rem] text-white mt-[24rem] desktop:text-[12rem] desktop:mt-[107rem]">© Copyright 2018 Huddle. All rights reserved.</small>
