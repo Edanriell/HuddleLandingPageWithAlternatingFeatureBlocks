@@ -1,7 +1,4 @@
-<script>
-</script>
-
-<ul class="flex flex-row items-center justify-center gap-x-[11.35rem] mt-[24rem]">
+<ul class="flex flex-row items-center justify-center gap-x-[11.35rem] mt-[24rem] desktop:mt-[unset]">
 	<li class="shrink-0 grow-0 flex items-center justify-center w-[32rem] h-[31rem] rounded-full border-[1rem] border-solid border-[#dfe4f0]">
 		<span class="visually-hidden">Facebook</span>
 		<a class="" href="/">
