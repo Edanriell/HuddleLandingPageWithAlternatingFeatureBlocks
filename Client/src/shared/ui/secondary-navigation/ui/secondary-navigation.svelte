@@ -1,4 +1,4 @@
-<nav aria-label="Secondary navigation" class="relative mt-[41rem]">
+<nav aria-label="Secondary navigation" class="relative mt-[41rem] desktop:mt-[unset]">
 	<ul class="grid grid-rows-[auto] grid-cols-1 gap-y-[16rem] desktop:grid-flow-row desktop:grid-cols-2 desktop:gap-y-[12rem] desktop:gap-x-[143rem]">
 		<li class="relative desktop:order-1">
 			<a class="font-[var(--font-family)] font-normal text-[14rem] leading-[193%] text-white" href="/">About Us</a>
