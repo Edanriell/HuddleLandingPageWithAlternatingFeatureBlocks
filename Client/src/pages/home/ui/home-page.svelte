@@ -1,3 +1,5 @@
-<section>
-	<h2>Home Page</h2>
-</section>
+<script>
+	import {HeroWidget} from "@widgets/hero/ui/index.js";
+</script>
+
+<HeroWidget />

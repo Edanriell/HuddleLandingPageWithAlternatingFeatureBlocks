@@ -1,14 +1,4 @@
 <script lang="ts">
-	import type {Snippet} from "svelte";
-
-	interface Props {
-		colorScheme: "White" | "ColorFul"
-		color?: string
-		hoverColor?: string
-		type?: "button" | "submit" | "reset"
-		children: Snippet;
-	}
-
 	let { colorScheme, color = "#ff52c1", hoverColor = "#ff9adb", type = "button", children }: Props = $props();
 </script>
 
