@@ -1,9 +1,5 @@
 <script lang="ts">
-	interface Props {
-		colorScheme: "Dark" | "Light"
-	}
-
-	let { colorScheme }: Props = $props();
+	let { colorScheme } = $props();
 </script>
 
 {#if colorScheme === "Dark"}
