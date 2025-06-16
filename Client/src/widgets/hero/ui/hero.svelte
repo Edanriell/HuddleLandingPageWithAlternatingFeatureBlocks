@@ -2,9 +2,9 @@
 	import {Link} from "@shared/ui/link/ui";
 </script>
 
-<section class="ml-[35rem] mr-[35rem] pb-[72rem] desktop:flex desktop:flex-row desktop:ml-[80rem] desktop:mr-[80rem] desktop:pb-[152.33rem] desktop:gap-x-[54rem] desktop:items-center desktop:justify-between desktop:pt-[23rem]">
+<section class="bg-red-400 pl-[35rem] pr-[35rem] pb-[72rem] desktop:flex desktop:flex-row desktop:pl-[80rem] desktop:pr-[80rem] desktop:pb-[152.33rem] desktop:gap-x-[54rem] desktop:items-center desktop:justify-between desktop:pt-[23rem]">
 	<div class="desktop:flex desktop:flex-col desktop:basis-[536rem] desktop:shrink-0 desktop:mt-[74rem] desktop:grow-1">
-		<h1 class="font-[var(--second-family)] font-semibold! text-[24rem]! leading-[150%]! text-[#00252e] text-center mt-[53rem]! mb-[24rem]! desktop:text-left desktop:text-[40rem]! desktop:leading-[150%]! desktop:mb-[32rem]! desktop:mt-[unset]!">Build The Community Your Fans Will Love</h1>
+		<h1 class="font-[var(--second-family)] mt-[unset]! font-semibold! text-[24rem]! leading-[150%]! text-[#00252e] text-center pt-[53rem]! mb-[24rem]! desktop:text-left desktop:text-[40rem]! desktop:leading-[150%]! desktop:mb-[32rem]! desktop:mt-[unset]! desktop:pt-[unset]!">Build The Community Your Fans Will Love</h1>
 		<p class="font-[var(--font-family)] font-normal! text-[16rem]! leading-[150%]! text-center text-[#00252e] mb-[32rem] desktop:text-left desktop:text-[18rem]! desktop:leading-[150%]! desktop:mr-[20rem]">Huddle re-imagines the way we build communities. You have a voice, but so does your audience. Create connections with your users as you engage in genuine discussion. </p>
 		<div class="text-center desktop:text-left">
 			<Link colorScheme="Pink" href="/">Get Started For Free</Link>
