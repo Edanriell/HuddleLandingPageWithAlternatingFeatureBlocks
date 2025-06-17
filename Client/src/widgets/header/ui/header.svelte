@@ -3,7 +3,9 @@
 	import {Link} from "@shared/ui/link/ui";
 </script>
 
-<header class="bg-transparent flex flex-row items-center justify-between mr-[16rem] ml-[16rem] pt-[27rem] pb-[27rem] desktop:mr-[80rem] desktop:ml-[80rem] desktop:pt-[48rem] desktop:pb-[48rem]">
-	<Logotype colorScheme="Dark" />
-	<Link colorScheme="White" href="/">Try It Free</Link>
+<header class="bg-[#edfbff]">
+	<div class="relative z-2 flex flex-row items-center justify-between pr-[16rem] pl-[16rem] pt-[27rem] pb-[27rem] desktop:pr-[80rem] desktop:pl-[80rem] desktop:pt-[48rem] desktop:pb-[48rem]">
+		<Logotype colorScheme="Dark" />
+		<Link colorScheme="White" href="/">Try It Free</Link>
+	</div>
 </header>
