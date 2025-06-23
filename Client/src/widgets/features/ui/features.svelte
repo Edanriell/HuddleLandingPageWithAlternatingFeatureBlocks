@@ -2,7 +2,7 @@
 	import {ContentCard} from "@shared/ui/content-card/ui";
 </script>
 
-<section class="ml-[20rem] mr-[20rem] pt-[59rem] pb-[120rem] desktop:pt-[160rem] desktop:ml-[104rem] desktop:mr-[104rem] desktop:pb-[160rem]">
+<section class="ml-[20rem] mr-[20rem] pt-[59rem] pb-[120rem] desktop:pt-[160rem] desktop:w-fit desktop:ml-[auto] desktop:mr-[auto] desktop:pb-[160rem]">
 	<h2 class="visually-hidden">Key features</h2>
 	<ul class="flex flex-col gap-y-[40rem]">
 		<li class="relative">
