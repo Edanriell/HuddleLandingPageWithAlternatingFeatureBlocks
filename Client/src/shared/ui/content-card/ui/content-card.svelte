@@ -1,5 +1,5 @@
 <script lang="ts">
-	let { title = "", description = "", className = "", contentClassName="", children } = $props();
+	let { title = "", description = "", className = "", contentClassName = "", children } = $props();
 </script>
 
 <article class="rounded-[16rem] bg-white shadow-[0_0_14px_0_rgba(0,0,0,0.07)] min-h-[488rem] pt-[24rem]! pl-[40rem]! pr-[40rem]! pb-[33rem]! flex flex-col items-center justify-center desktop:flex-row desktop:justify-between desktop:pt-[unset]! desktop:pb-[unset]! desktop:pl-[120rem]! desktop:pr-[30rem]! desktop:min-h-[440rem] desktop:max-w-[1232rem] {className}">
