@@ -4,7 +4,7 @@
 
 <svelte:head>
 	<title>Home</title>
-	<meta content="Svelte demo app" name="description" />
+	<meta content="Huddle" name="description" />
 </svelte:head>
 
 <HomePage />
