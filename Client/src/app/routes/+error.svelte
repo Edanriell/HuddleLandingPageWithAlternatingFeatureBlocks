@@ -1,6 +1,10 @@
-<script>
+<script lang="ts">
+	import {NotFoundPage} from "@pages/not-found/ui";
 </script>
 
-<section>
-	<h1>Error Page I Guess</h1>
-</section>
+<svelte:head>
+	<title>Not Found</title>
+	<meta content="Huddle" name="description" />
+</svelte:head>
+
+<NotFoundPage />
